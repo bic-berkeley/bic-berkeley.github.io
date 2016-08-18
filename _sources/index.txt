@@ -11,7 +11,7 @@ These are the Github pages for the `Berkeley Brain Imaging Center`_ (BIC).
 See also:
 
 * the `practiCAL fMRI blog`_;
-* `Psych 214 2016 <psych-214-2016>`_ course on functional MRI methods;
+* `Psych 214 2016 <psych-214-fall-2016>`_ course on functional MRI methods;
 * 2015 `practical neuroimaging course`_.
 
 .. The hidden toctree below is to suppress build warnings
