@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"function":0,also:0,bic:0,blog:0,cours:0,fmri:0,github:0,method:0,mri:0,neuroimag:0,page:0,practic:0,practical:0,psych:0,see:0},titles:["Berkeley Brain Imaging Center"],titleterms:{berkelei:0,brain:0,center:0,image:0}})
